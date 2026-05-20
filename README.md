@@ -7,9 +7,9 @@ Analizar el comportamiento de los clientes de ConnectaTel mediante técnicas de 
 
 ## Datasets utilizados
 
-- **users.csv** → Información demográfica y de registro de usuarios.
-- **usage.csv** → Información histórica de llamadas y mensajes durante 2024.
-
+- plans.csv → Información de los planes actuales (precio, minutos, GB y costos extra).
+- users.csv → Información demográfica y de registro de usuarios.
+- usage.csv → Información histórica de llamadas y mensajes durante 2024.
 ---
 
 ## Etapas del análisis
